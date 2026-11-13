@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "environment": "examples-product-bug-retry",
+  "runs": [
+    {
+      "repository": "Test-Automation-PTS/testmate-test",
+      "runId": "20261113",
+      "runAttempt": "1",
+      "key": "Test-Automation-PTS-testmate-test-20261113-1",
+      "sha256": "a4e0938616fb7f2bfdeb23ba50a327cc3dacf1cc02d8f496b0e40294e28e48d5",
+      "createdAt": "2026-11-13T16:09:38.419Z",
+      "status": "journey_repaired_product_bug",
+      "accepted": false,
+      "project": "Synthetisches Beispiel: echter Codex repariert den Ablauf, Produktfehler bleibt",
+      "cases": 1
+    }
+  ]
+}
