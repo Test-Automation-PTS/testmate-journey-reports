@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "environment": "examples-corrected",
+  "runs": [
+    {
+      "repository": "Test-Automation-PTS/testmate-test",
+      "runId": "20261113",
+      "runAttempt": "1",
+      "key": "Test-Automation-PTS-testmate-test-20261113-1",
+      "sha256": "343353a9efde5abdd9523e779bb48d9fa30ed74f51f554e38782d3c176dd0778",
+      "createdAt": "2026-11-13T16:09:28.869Z",
+      "status": "validated",
+      "accepted": true,
+      "project": "Synthetisches Beispiel: unvollständigen Fix mit echtem Codex korrigiert",
+      "cases": 1
+    }
+  ]
+}
