@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "environment": "examples-product-bug",
+  "runs": [
+    {
+      "repository": "Test-Automation-PTS/testmate-test",
+      "runId": "20261113",
+      "runAttempt": "1",
+      "key": "Test-Automation-PTS-testmate-test-20261113-1",
+      "sha256": "98e5f1ccea250e36326d01f0d956eb8e26351d3330acbd3a112711164dd0f646",
+      "createdAt": "2026-11-13T16:09:47.322Z",
+      "status": "journey_repaired_product_bug",
+      "accepted": false,
+      "project": "Synthetisches Beispiel: echte Codex-Erkundung ohne vorgegebenen Fix",
+      "cases": 1
+    }
+  ]
+}
